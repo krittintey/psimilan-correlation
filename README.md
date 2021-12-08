@@ -1,3 +1,3 @@
 # psimilan-correlation
 Code for Monitoring Population-Level Mental Health fromSocial Networks: A Case Study of Thailand\
-Training Dataset: https://github.com/google-research/google-research/tree/master/goemotions
+Training Dataset: https://drive.google.com/drive/folders/1B0qeV_kl3O2uMwN6mTtm69Mbii_5hAhU?usp=sharing
